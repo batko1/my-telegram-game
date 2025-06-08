@@ -1,0 +1,6 @@
+{
+  "name": "n8n-nodes-telegram",
+  "version": "1.0.0",
+  "description": "Telegram Trigger for n8n",
+  "main": "nodes/index.js"
+}
